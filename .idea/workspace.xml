@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bdd8f24-4482-42a5-9401-ce76296397c5" name="Changes" comment="pushing to the repository" />
+    <list default="true" id="6bdd8f24-4482-42a5-9401-ce76296397c5" name="Changes" comment="pushing to the repository">
+      <change beforePath="$PROJECT_DIR$/Karina and Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Karina and Array.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685647750466</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pushing to the repository">
+      <created>1685648540035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685648540035</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
